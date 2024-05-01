@@ -1,0 +1,4 @@
+/* when there is no replay available at the current timestamp, a div with z-index 20 prevents navigating to adjacent rooms */
+div.exit {
+	z-index:21
+}
